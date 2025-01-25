@@ -30,3 +30,5 @@ The position: fixed and bottom: 0 keep the footer at the bottom of the page, eve
 It also adjusts the margin of the list items to make them more spaced out on smaller screens.This is a simple, clean portfolio template. It's a responsive design that adjusts to different screen sizes, making it suitable for desktop, tablet, and mobile viewing. You can further enhance it by adding images, animations, and other interactive features (e.g., a contact form).
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/27823562-cd4f-4ade-85b6-091b1bc007b6)
