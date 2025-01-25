@@ -29,4 +29,5 @@ The navigation is styled as a horizontal list that becomes a vertical list on sm
 The position: fixed and bottom: 0 keep the footer at the bottom of the page, even when the user scrolls.This media query ensures that on screens smaller than 768px, the navigation links stack vertically (flex-direction: column) instead of horizontally.
 It also adjusts the margin of the list items to make them more spaced out on smaller screens.This is a simple, clean portfolio template. It's a responsive design that adjusts to different screen sizes, making it suitable for desktop, tablet, and mobile viewing. You can further enhance it by adding images, animations, and other interactive features (e.g., a contact form).
 
-
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/20292f62-2efa-49d7-96b6-3151c26381e3)
